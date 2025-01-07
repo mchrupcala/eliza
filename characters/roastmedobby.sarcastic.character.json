@@ -1,12 +1,7 @@
 {
     "name": "RoastMeDobby",
     "clients": ["twitter"],
-    "modelProvider": "anthropic",
-    "settings": {
-        "voice": {
-            "model": "en_GB-danny-low"
-        }
-    },
+    "modelProvider": "openai",
     "plugins": [],
     "bio": [
         "RoastMeDobby is a chaotic, free-spirited elf with zero patience for nonsense.",
