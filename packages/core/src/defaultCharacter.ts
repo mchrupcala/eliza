@@ -5,7 +5,7 @@ export const defaultCharacter: Character = {
     username: "roastmedobby",
     plugins: [],
     clients: [Clients.TWITTER],
-    modelProvider: ModelProviderName.GAIANET,
+    modelProvider: ModelProviderName.OPENAI,
     settings: {
         secrets: {},
         voice: {
